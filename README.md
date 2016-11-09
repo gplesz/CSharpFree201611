@@ -11,11 +11,11 @@ Letölteni az előző linkről vagy [innen lehet](https://www.visualstudio.com/f
 
 Vagy, ha valaki szeret újat kipróbálni, akkor telepítheti [Chocolatey](https://chocolatey.org/) csomagkezelővel is. 
 
-[Telepítés](https://chocolatey.org/install): ehhez indítsunk egy adminisztrátori parancssort ([elevated command prompt](http://www.computerhope.com/jargon/e/elevated.htm)), majd tegyük vágólapra ezt:
+[Telepítés](https://chocolatey.org/install): ehhez indítsunk egy adminisztrátori parancssort ([elevated command prompt](http://www.computerhope.com/jargon/e/elevated.htm)), majd tegyük vágólapra ezt (igen, az egészet!):
 
 **@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"**
 
-ha megvan, a parancssorunkba illesszük be és futtassuk le. 
+majd a parancssorunkba illesszük be és futtassuk le. 
 
 Ezzel telepítettünk egy csomagkezelőt, innentől kezdve nem kell letölteni és telepíteni kattintgatásokkal az alkalmazásainkat, hanem a csomagkezelőnkre bizhatjuk a dolgot, legalábbis [jelenleg már több, mint 4000 alkalmazás esetében](https://chocolatey.org/packages).
 
