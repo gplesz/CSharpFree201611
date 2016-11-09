@@ -20,7 +20,7 @@ Nem kell most mindent most eldönteni. Vannak [ingyenes tanfolyamaink](http://ww
 ```
 
 ## Előkészületek
-A tanfolyamon **Windows** operációs rendszeren futó [Visual Studio 2015 Community](https://www.visualstudio.com/vs/community/) fejlesztői keretrendszert fogunk használni.
+A tanfolyamon **Windows** operációs rendszeren futó [Visual Studio 2015 Community](https://www.visualstudio.com/vs/community/) fejlesztői keretrendszert fogunk használni. Azt mondanám, hogy a tanfolyam valószínűleg majdnem minden Visual Studio változattal követhető (2008/2010/2012/2013/2015), de mivel ez elérhető, ingyenes és a legfrissebb, és majd ahogy látjuk, egy jó parancssorban két parancs kiadásával telepíthető, nem nagyon van értelme alternatívákat keresni.
 
 ### Visual Studio 2015 Community telepítése
 A tanfolyamon ezt az alkalmazást fogjuk használni. Ingyenesen elérhető önálló fejlesztők, nyílt forráskódú projektek, akadémiai kutatók számára. Továbbá oktatási célokra és kis (max 5 fős) fejlesztőcsapatoknak.
