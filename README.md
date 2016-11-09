@@ -27,7 +27,9 @@ A tanfolyamon ezt az alkalmazást fogjuk használni. Ingyenesen elérhető öná
 
 Letölteni az előző linkről vagy [innen lehet](https://www.visualstudio.com/free-developer-offers/). Ehhez a tanfolyamhoz telepíteni az alapértelmezett beállításokkal elég.
 
-Vagy, ha valaki szeret újat kipróbálni, akkor telepítheti [Chocolatey](https://chocolatey.org/) csomagkezelővel is. 
+Vagy, 
+
+[ha valaki szeret újat kipróbálni]((http://netacademia.blog.hu/2016/11/03/hogyan_keszitsunk_chocolatey_csomagot_az_alkalmazasunkhoz)), akkor telepítheti [Chocolatey](https://chocolatey.org/) csomagkezelővel is. 
 
 [Telepítés](https://chocolatey.org/install): ehhez indítsunk egy adminisztrátori parancssort ([elevated command prompt](http://www.computerhope.com/jargon/e/elevated.htm)), tegyük vágólapra ezt (igen, az egészet!):
 
@@ -35,7 +37,7 @@ Vagy, ha valaki szeret újat kipróbálni, akkor telepítheti [Chocolatey](https
 
 majd a parancssorunkba illesszük be és futtassuk le. 
 
-Ezzel [telepítettünk egy csomagkezelőt](http://netacademia.blog.hu/2016/11/03/hogyan_keszitsunk_chocolatey_csomagot_az_alkalmazasunkhoz), innentől kezdve nem kell letölteni és telepíteni kattintgatásokkal az alkalmazásainkat, hanem a csomagkezelőnkre bizhatjuk a dolgot, legalábbis [jelenleg már több, mint 4000 alkalmazás esetében](https://chocolatey.org/packages).
+Ezzel telepítettünk egy csomagkezelőt, innentől kezdve nem kell letölteni és telepíteni kattintgatásokkal az alkalmazásainkat, hanem a csomagkezelőnkre bizhatjuk a dolgot, legalábbis [jelenleg már több, mint 4000 alkalmazás esetében](https://chocolatey.org/packages).
 
 Ha van csomagkezelőnk, a Visual Studio Community telepítése [adminisztrátori parancssorból így megy](https://chocolatey.org/packages/VisualStudio2015Community): 
 
