@@ -13,6 +13,9 @@ Ha az adatbázisok a kérdés, [akkor is van ötletünk](http://www.netacademia.
 [A java sem az ellenségünk, sőt](http://www.netacademia.hu/2016java-java-halado)! 
 
 És ez csak még csak 5 (azaz csak **ÖT**) tanfolyam a jelenleg elérhető 109-ből!
+
+Nem kell most mindent eldönteni. Vannak [ingyenes tanfolyamaink](http://www.netacademia.hu/), vess rájuk egy pillantást.
+
 ```
 </reklám>
 ```
