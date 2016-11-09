@@ -4,17 +4,17 @@ NetAcademia ingyenes C# bevezető
 ```
 <reklám>
 ```
-Ha tetszik amit csinálunk, és valakit komolyabban érdekel a C#, az még becsatlakozhat a [C# alapok](http://www.netacademia.hu/2016c%23-) tanfolyamunkra. Ennek az elvégzése után már nagyon komoly és alapos C#/.NET tudást ismerhetsz meg, érdemes megnézni a tanfolyami tematikát. 
+Ha tetszik amit csinálunk, és valakit komolyabban érdekel a C#, az jó helyen jár. Még becsatlakozhat a [C# alapok](http://www.netacademia.hu/2016c%23-) tanfolyamunkra. Ennek az elvégzése után már nagyon komoly és alapos C#/.NET tudást ismerhetsz meg, érdemes megnézni a tanfolyami tematikát. 
 
-Sőt, [előfizetés keretében](http://netacademia.hu/Subscriptions) is csatlakozhatsz, ekkor már nem csak ez a tanfolyam, hanem egy évig akár a Netakadémiánál megtartandó, valamint megtartott és felvételen elérhető **összes** tanfolyamhoz hozzáférsz. Így [multiplatformos C# kliens alkalmazások irását](http://www.netacademia.hu/2016crossplatformkliens-cross---platform-kliens-oldali-fejlesztes-net-ben) (windows/android/ios telefonok, desktop) *és* [multiplatformos C# szerveralkalmazások fejlesztését](http://www.netacademia.hu/2016crossplatform-cross---platform-szerver-oldali-fejlesztes-aspnet-mvc-hasznalataval) (windows, linux, osx) **is** megtanulhatod. 
+Sőt, [előfizetés keretében](http://netacademia.hu/Subscriptions) is csatlakozhatsz, ekkor már nem csak ez a tanfolyam, hanem egy évig akár a Netakadémiánál megtartandó, valamint megtartott és felvételen elérhető **összes** tanfolyamhoz hozzáférsz. Így [multiplatformos C# kliens alkalmazások irását](http://www.netacademia.hu/2016crossplatformkliens-cross---platform-kliens-oldali-fejlesztes-net-ben) (windows/android/ios telefonok, desktop) *és* [multiplatformos C# szerveralkalmazások fejlesztését](http://www.netacademia.hu/2016crossplatform-cross---platform-szerver-oldali-fejlesztes-aspnet-mvc-hasznalataval) (windows, linux, osx) **is** megtanulhatod. Van még [C# elmélyítő](http://www.netacademia.hu/C%23dd-c-deep-dive) és [Design Patterns és többszálúság](http://www.netacademia.hu/objektumorientalt-tervezes-des) tanfolyam is.
 
 Ha az adatbázisok a kérdés, [akkor is van ötletünk](http://www.netacademia.hu/2016nosql-nosql-vs-sql).
 
 [A java sem az ellenségünk, sőt](http://www.netacademia.hu/2016java-java-halado)! 
 
-És ez csak még csak 5 (azaz csak **ÖT**) tanfolyam a jelenleg elérhető 109-ből!
+És ez csak még csak 7 (azaz csak **HÉT**) tanfolyam a jelenleg elérhető 109-ből!
 
-Nem kell most mindent eldönteni. Vannak [ingyenes tanfolyamaink](http://www.netacademia.hu/), vess rájuk egy pillantást.
+Nem kell most mindent most eldönteni. Vannak [ingyenes tanfolyamaink](http://www.netacademia.hu/), vess rájuk egy pillantást.
 
 ```
 </reklám>
