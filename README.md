@@ -1,6 +1,14 @@
 # CSharpFree
 NetAcademia ingyenes C# bevezető
 
+```
+<reklám>
+```
+Ha sikerült felkelteni az érdeklődésedet, és valakit komolyabban érdekel a C#, az még becsatlakozhat a [C# alapok](http://www.netacademia.hu/2016c%23-) tanfolyamunkra. Ennek az elvégzése után már nagyon komoly és alapos C#/.NET tudást ismerhetsz meg. Sőt, [előfizetés keretében](http://netacademia.hu/Subscriptions) is csatlakozhatsz, ekkor már nem csak ez a tanfolyam, hanem egy évig akár a Netakadémiánál megtartandó, valamint megtartott és felvételen elérhető **összes** tanfolyamhoz hozzáférsz. Így multiplatformos C# kliens alkalmazások irását és multiplatformos C# szerveralkalmazások fejlesztését **is** megtanulhatod. És ez csak még csak három tanfolyam a jelenleg elérhető 109-ből!
+```
+</reklám>
+```
+
 ## Előkészületek
 A tanfolyamon **Windows** operációs rendszeren futó [Visual Studio 2015 Community](https://www.visualstudio.com/vs/community/) fejlesztői keretrendszert fogunk használni.
 
