@@ -30,7 +30,7 @@ Letölteni az előző linkről vagy [innen lehet](https://www.visualstudio.com/f
 
 Vagy, ha valaki szeret újat kipróbálni, akkor telepítheti [Chocolatey](https://chocolatey.org/) csomagkezelővel is. 
 
-[Telepítés](https://chocolatey.org/install): ehhez indítsunk egy adminisztrátori parancssort ([elevated command prompt](http://www.computerhope.com/jargon/e/elevated.htm)), majd tegyük vágólapra ezt (igen, az egészet!):
+[Telepítés](https://chocolatey.org/install): ehhez indítsunk egy adminisztrátori parancssort ([elevated command prompt](http://www.computerhope.com/jargon/e/elevated.htm)), tegyük vágólapra ezt (igen, az egészet!):
 
 **@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"**
 
