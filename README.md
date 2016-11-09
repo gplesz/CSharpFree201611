@@ -12,7 +12,7 @@ Ha az adatbázisok a kérdés, [akkor is van ötletünk](http://www.netacademia.
 
 [A java sem az ellenségünk, sőt](http://www.netacademia.hu/2016java-java-halado)! 
 
-És ez csak még csak 7 (azaz csak **HÉT**) tanfolyam a jelenleg elérhető 109-ből!
+És ez még csak 7 (azaz *csak* **HÉT**) tanfolyam a jelenleg elérhető 109-ből!
 
 Nem kell most mindent most eldönteni. Vannak [ingyenes tanfolyamaink](http://www.netacademia.hu/), vess rájuk egy pillantást. A [blogunkon](http://netacademia.blog.hu/) pedig sok érdekes szakmai információt találsz.
 ```
