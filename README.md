@@ -4,7 +4,7 @@ NetAcademia ingyenes C# bevezető
 ```
 <reklám>
 ```
-Ha tetszik amit csinálunk, és valakit komolyabban érdekel a C#, az jó helyen jár. Még időben vagy, szóval jelentkezhetsz a [C# alapok](http://www.netacademia.hu/2016c%23-) tanfolyamunkra. Ennek az elvégzésével után már nagyon komoly és alapos C#/.NET tudást ismerhetsz meg, érdemes megnézni a tanfolyami tematikát. 
+Ha tetszik amit csinálunk, és valakit komolyabban érdekel a C#, az jó helyen jár. Még időben vagy, szóval jelentkezhetsz a [C# alapok](http://www.netacademia.hu/2016c%23-) tanfolyamunkra. Ennek az elvégzésével alapos C#/.NET tudást ismerhetsz meg, érdemes megnézni a tanfolyami tematikát. 
 
 Sőt, [előfizetés keretében](http://netacademia.hu/Subscriptions) is csatlakozhatsz, ekkor már nem csak ez a tanfolyam, hanem egy évig akár a Netakadémiánál megtartandó, valamint megtartott és felvételen elérhető **összes** tanfolyamhoz hozzáférsz. Így [multiplatformos C# kliens alkalmazások irását](http://www.netacademia.hu/2016crossplatformkliens-cross---platform-kliens-oldali-fejlesztes-net-ben) (windows/android/ios telefonok, desktop) *és* [multiplatformos C# szerveralkalmazások fejlesztését](http://www.netacademia.hu/2016crossplatform-cross---platform-szerver-oldali-fejlesztes-aspnet-mvc-hasznalataval) (windows, linux, osx) **is** megtanulhatod. Van még [C# elmélyítő](http://www.netacademia.hu/C%23dd-c-deep-dive) és [Design Patterns és többszálúság](http://www.netacademia.hu/objektumorientalt-tervezes-des) tanfolyam is.
 
