@@ -12,7 +12,13 @@ Ha az adatbázisok a kérdés, [akkor is van ötletünk](http://www.netacademia.
 
 [A java sem az ellenségünk, sőt](http://www.netacademia.hu/2016java-java-halado)! 
 
-És ez még csak 7 (azaz *csak* **HÉT**) tanfolyam a jelenleg elérhető 109-ből!
+És ez még csak 7 (azaz *csak* **HÉT**) tanfolyam a jelenleg elérhető 109-ből! Mivel ez rengeteg tanfolyam, ezért négy fő csapásirányra osztottuk a tanulnivalókat, ezek a következők:
+
+ - [Webfejlesztő leszek!](http://netacademia.hu/Webfejleszt%C5%91%20leszek!)
+ - [Rendszergazda leszek!](http://netacademia.hu/Rendszergazda%20leszek!)
+ - [Fejlesztő leszek!](http://netacademia.hu/Fejleszt%C5%91%20leszek!)
+ - [Legyél Te is HACKER!](http://netacademia.hu/Hacker%20leszek!)
+
 
 Nem kell mindent most eldönteni. Vannak [ingyenes tanfolyamaink](http://www.netacademia.hu/), vess rájuk egy pillantást. A folyamatosan frissülő [blogunkon](http://netacademia.blog.hu/) pedig sok érdekes szakmai információt találsz.
 ```
