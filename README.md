@@ -14,7 +14,7 @@ Ha az adatbázisok a kérdés, [akkor is van ötletünk](http://www.netacademia.
 
 És ez még csak 7 (azaz *csak* **HÉT**) tanfolyam a jelenleg elérhető 109-ből!
 
-Nem kell mindent most eldönteni. Vannak [ingyenes tanfolyamaink](http://www.netacademia.hu/), vess rájuk egy pillantást. A [blogunkon](http://netacademia.blog.hu/) pedig sok érdekes szakmai információt találsz.
+Nem kell mindent most eldönteni. Vannak [ingyenes tanfolyamaink](http://www.netacademia.hu/), vess rájuk egy pillantást. A folyamatosan frissülő [blogunkon](http://netacademia.blog.hu/) pedig sok érdekes szakmai információt találsz.
 ```
 </reklám>
 ```
