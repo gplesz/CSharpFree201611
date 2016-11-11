@@ -29,7 +29,7 @@ namespace _03Feltetel2
                 Console.WriteLine("Valami halas ételhez összetevők");
             }
             else
-            { //valami mást mondott
+            {
                 if (valasz == "nem") //megnézzük, nemet mondott-e?
                 { //Ha nemet mondott, akkor pörkölt
                     Console.WriteLine("Marhahús");
@@ -41,8 +41,7 @@ namespace _03Feltetel2
                 { //ha sem igen sem nem, akkor meg sütemény
                     Console.WriteLine("sütemény");
                 }
-            } 
-
+            }
             Console.ReadLine();
 
             //A szintaktikára figyelni körülbelül azt jelenti, ment 
@@ -50,7 +49,6 @@ namespace _03Feltetel2
             //A királynőt megölni, nem kell félnetek, jó lesz
             //A királynőt megölni nem kell, félnetek jó lesz
             //A C#-ban a vesszők szerepét a kódblokkok veszik át.
-
         }
     }
 }
