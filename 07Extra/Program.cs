@@ -132,11 +132,10 @@ namespace _07Extra
             Console.WriteLine("Meddig számoljak el?");
             int szam;
             bool sikeres;
-            string valasz;
             //hátul tesztelő ciklus
             do
             { //ezt a kódblokkot ismételjük
-                valasz = Console.ReadLine();
+                var valasz = Console.ReadLine();
                 sikeres = int.TryParse(valasz, out szam);
                 if (!sikeres) { Console.WriteLine("Nem sikerült az átalakítás"); }
             } while (!sikeres); //Addig ismételjük, amíg nem sikerült az átalakítás
