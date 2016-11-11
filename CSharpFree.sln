@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04BujocskaCiklus1", "04Bujo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Valtozok", "05Valtozok\05Valtozok.csproj", "{062D11B2-F913-4372-BF76-C697B953730D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Fuggvenyek", "06Fuggvenyek\06Fuggvenyek.csproj", "{AD2AA9A6-DCDD-4BF3-AE2D-6E614D7925D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{062D11B2-F913-4372-BF76-C697B953730D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{062D11B2-F913-4372-BF76-C697B953730D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{062D11B2-F913-4372-BF76-C697B953730D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2AA9A6-DCDD-4BF3-AE2D-6E614D7925D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2AA9A6-DCDD-4BF3-AE2D-6E614D7925D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2AA9A6-DCDD-4BF3-AE2D-6E614D7925D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2AA9A6-DCDD-4BF3-AE2D-6E614D7925D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
