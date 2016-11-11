@@ -64,6 +64,8 @@ namespace _05Valtozok
             //logikai: igaz: true hamis: false
             var ezVajonIgaz = 28 > 3;
 
+
         }
+
     }
 }
