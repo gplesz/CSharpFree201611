@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01HelloVilag", "01HelloVilag\01HelloVilag.csproj", "{F60B1394-7310-4036-BA33-8BF790A0A5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ReceptekFeltetel", "02ReceptekFeltetel\02ReceptekFeltetel.csproj", "{C6BA4211-6C35-4615-95E1-0DA8D47914FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60B1394-7310-4036-BA33-8BF790A0A5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60B1394-7310-4036-BA33-8BF790A0A5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60B1394-7310-4036-BA33-8BF790A0A5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60B1394-7310-4036-BA33-8BF790A0A5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BA4211-6C35-4615-95E1-0DA8D47914FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BA4211-6C35-4615-95E1-0DA8D47914FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BA4211-6C35-4615-95E1-0DA8D47914FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BA4211-6C35-4615-95E1-0DA8D47914FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
