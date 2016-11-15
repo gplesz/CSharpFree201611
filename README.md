@@ -25,7 +25,8 @@ Nem kell mindent most eldönteni. Vannak [ingyenes tanfolyamaink](http://www.net
 </reklám>
 ```
 
-## Egy jól használható, magyar nyelvű C# jegyzet ami ingyenesen letölthető: [Reiter István: C# programozás lépésről lépésre](https://devportal.hu/download/E-bookok/csharp%20jegyzet/C%23%20programozas%20lepesrol%20lepesre%20-%20Reiter%20Istvan%20(frissitett%20tartalommal%202012.10.15).pdf)
+## Egy jól használható, magyar nyelvű C# jegyzet ami ingyenesen letölthető
+[Reiter István: C# programozás lépésről lépésre](https://devportal.hu/download/E-bookok/csharp%20jegyzet/C%23%20programozas%20lepesrol%20lepesre%20-%20Reiter%20Istvan%20(frissitett%20tartalommal%202012.10.15).pdf)
 
 ## Előkészületek
 A tanfolyamon **Windows** operációs rendszeren futó [Visual Studio 2015 Community](https://www.visualstudio.com/vs/community/) fejlesztői keretrendszert fogunk használni. Azt mondanám, hogy a tanfolyam valószínűleg majdnem minden Visual Studio változattal követhető (2008/2010/2012/2013/2015), de mivel ez elérhető, ingyenes és a legfrissebb, és majd ahogy látjuk, egy jó parancssorban két parancs kiadásával telepíthető, nem nagyon van értelme alternatívákat keresni.
